@@ -1,0 +1,28 @@
+About Despeckle filter
+	Το παρόν λογισμικό αποτελεί κομμάτι της πτυχιακής 
+ μου εργασίας με τίτλο "Επεξεργασία εικόνων radar 
+ (SAR) του δορυφόρου του Κρόνου,
+ Τιτάνα, απ'το διαστημικό δορυφόρο cassini, 
+ με χρήση του ISIS 3 
+ και άλλων προγραμματιστικών εργαλείων" .
+ 	Η αρχική έκδοση είχε υλοποιηθεί σε περιβάλλον matlab.
+ H παρούσα έκδοση του φίλτρου έχει υλοποιηθεί σε περιβάλλον bash 
+ με χρήση των προγραμματιστικών εργαλείων του isis 3.
+ 	Το γραφικό περιβάλλον της εφαρμογής έχει γραφτεί 
+ σε python με χρήση των βιβλιωθηκών Qt4 
+ 
+ Δημοσίευση φίλτρου: 
+
+ Title:	A despeckle filter for the Cassini 
+ 		synthetic aperture radar images of Titan's surface
+ 		
+ Authors: Bratsolis, Emmanuel
+          Bampasidis, Georgios
+          Solomonidou, Anezina
+          Coustenis, Athena
+ 
+ Publication Date:	02/2012
+	
+	
+Copyright (C) 2015	
+by Charalampos Mageiridis

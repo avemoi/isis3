@@ -1,0 +1,678 @@
+Object = stats
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-11-12
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:52
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generates statistics about a cube"
+
+  Group = UserParameters
+    FROM   = /home/enos/workspace/Despeckle_filter/source/T19_crop.cub
+    FORMAT = PVL
+    APPEND = TRUE
+  End_Group
+
+  Group = Results
+    From                    = /home/enos/workspace/Despeckle_filter/source/T1-
+                              9_crop.cub
+    Band                    = 1
+    Average                 = 0.34789919830694
+    StandardDeviation       = 0.23263211405146
+    Variance                = 0.054117700488052
+    Median                  = 0.30126577439601
+    Mode                    = 0.22241297964521
+    Skew                    = 0.60137987527315
+    Minimum                 = 7.5591093627736e-04
+    Maximum                 = 3.6998381614685
+    Sum                     = 372678.31870635
+    TotalPixels             = 1071225
+    ValidPixels             = 1071225
+    OverValidMaximumPixels  = 0
+    UnderValidMinimumPixels = 0
+    NullPixels              = 0
+    LisPixels               = 0
+    LrsPixels               = 0
+    HisPixels               = 0
+    HrsPixels               = 0
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = stats
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-11-12
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:52
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generates statistics about a cube"
+
+  Group = UserParameters
+    FROM   = /home/enos/workspace/Despeckle_filter/source/T19_crop.cub
+    FORMAT = PVL
+    APPEND = TRUE
+  End_Group
+
+  Group = Results
+    From                    = /home/enos/workspace/Despeckle_filter/source/T1-
+                              9_crop.cub
+    Band                    = 1
+    Average                 = 0.34789919830694
+    StandardDeviation       = 0.23263211405146
+    Variance                = 0.054117700488052
+    Median                  = 0.30126577439601
+    Mode                    = 0.22241297964521
+    Skew                    = 0.60137987527315
+    Minimum                 = 7.5591093627736e-04
+    Maximum                 = 3.6998381614685
+    Sum                     = 372678.31870635
+    TotalPixels             = 1071225
+    ValidPixels             = 1071225
+    OverValidMaximumPixels  = 0
+    UnderValidMinimumPixels = 0
+    NullPixels              = 0
+    LisPixels               = 0
+    LrsPixels               = 0
+    HisPixels               = 0
+    HrsPixels               = 0
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = stats
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-11-12
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:52
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generates statistics about a cube"
+
+  Group = UserParameters
+    FROM   = /home/enos/workspace/Despeckle_filter/source/T19_crop.cub
+    FORMAT = PVL
+    APPEND = TRUE
+  End_Group
+
+  Group = Results
+    From                    = /home/enos/workspace/Despeckle_filter/source/T1-
+                              9_crop.cub
+    Band                    = 1
+    Average                 = 0.34789919830694
+    StandardDeviation       = 0.23263211405146
+    Variance                = 0.054117700488052
+    Median                  = 0.30126577439601
+    Mode                    = 0.22241297964521
+    Skew                    = 0.60137987527315
+    Minimum                 = 7.5591093627736e-04
+    Maximum                 = 3.6998381614685
+    Sum                     = 372678.31870635
+    TotalPixels             = 1071225
+    ValidPixels             = 1071225
+    OverValidMaximumPixels  = 0
+    UnderValidMinimumPixels = 0
+    NullPixels              = 0
+    LisPixels               = 0
+    LrsPixels               = 0
+    HisPixels               = 0
+    HrsPixels               = 0
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = stats
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-11-12
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:52
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generates statistics about a cube"
+
+  Group = UserParameters
+    FROM   = /home/enos/workspace/Despeckle_filter/source/T19_crop.cub
+    FORMAT = PVL
+    APPEND = TRUE
+  End_Group
+
+  Group = Results
+    From                    = /home/enos/workspace/Despeckle_filter/source/T1-
+                              9_crop.cub
+    Band                    = 1
+    Average                 = 0.34789919830694
+    StandardDeviation       = 0.23263211405146
+    Variance                = 0.054117700488052
+    Median                  = 0.30126577439601
+    Mode                    = 0.22241297964521
+    Skew                    = 0.60137987527315
+    Minimum                 = 7.5591093627736e-04
+    Maximum                 = 3.6998381614685
+    Sum                     = 372678.31870635
+    TotalPixels             = 1071225
+    ValidPixels             = 1071225
+    OverValidMaximumPixels  = 0
+    UnderValidMinimumPixels = 0
+    NullPixels              = 0
+    LisPixels               = 0
+    LrsPixels               = 0
+    HisPixels               = 0
+    HrsPixels               = 0
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = median
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2006-06-19
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:53
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Set pixels to median of surrounding pixel values"
+
+  Group = UserParameters
+    FROM        = /home/enos/workspace/Despeckle_filter/source/T19_crop.cub
+    TO          = /tmp/isis3_despeckle/prep.cub
+    SAMPLES     = 9
+    LINES       = 9
+    LOW         = 1.27842765451278000
+    HIGH        = 3.69983816146950000
+    MINOPT      = COUNT
+    MINIMUM     = 1
+    REPLACEMENT = CENTER
+    FILTER      = inside
+    NULL        = no
+    HRS         = no
+    HIS         = no
+    LRS         = no
+    LIS         = no
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:01.0
+    CpuTime     = 00:00:01.1
+  End_Group
+End_Object
+
+
+Object = stretch
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-04-23
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:54
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Remaps pixel values in a cube"
+
+  Group = UserParameters
+    FROM           = /tmp/isis3_despeckle//temp_image_input.cub
+    TO             = /tmp/isis3_despeckle//temp_image.cub
+    USEPERCENTAGES = False
+    READFILE       = False
+    NULL           = 0
+    LIS            = 0
+    LRS            = 0
+    HIS            = 0
+    HRS            = 0
+  End_Group
+
+  Group = Results
+    StretchPairs = Null
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = fx
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-12-11
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:54
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generalized arithmetic operations using multiple cube
+                       files"
+
+  Group = UserParameters
+    F1       = /tmp/isis3_despeckle//temp_image.cub
+    TO       = /tmp/isis3_despeckle//output0.cub
+    EQUATION = F1*0.08
+    MODE     = CUBES
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.1
+  End_Group
+End_Object
+
+
+Object = pad
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2012-12-06
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:54
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Add NULL padding around a cube"
+
+  Group = UserParameters
+    FROM   = /tmp/isis3_despeckle//temp_image.cub
+    TO     = /tmp/isis3_despeckle//a.cub
+    LEFT   = 1
+    RIGHT  = 1
+    TOP    = 1
+    BOTTOM = 1
+  End_Group
+
+  Group = Results
+    InputLines    = 1035
+    InputSamples  = 1035
+    LeftPad       = 1
+    RightPad      = 1
+    TopPad        = 1
+    BottomPad     = 1
+    OutputLines   = 1037
+    OutputSamples = 1037
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.1
+  End_Group
+End_Object
+
+
+Object = stretch
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-04-23
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:54
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Remaps pixel values in a cube"
+
+  Group = UserParameters
+    FROM           = /tmp/isis3_despeckle//a.cub
+    TO             = /tmp/isis3_despeckle//b.cub
+    USEPERCENTAGES = False
+    READFILE       = False
+    NULL           = 0
+  End_Group
+
+  Group = Results
+    StretchPairs = Null
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = kernfilter
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2009-07-27
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Filter a cube through a kernel"
+
+  Group = UserParameters
+    FROM   = /tmp/isis3_despeckle//b.cub
+    TO     = /tmp/isis3_despeckle//c.cub
+    KERNEL = /home/enos/Desktop/skata.cub
+  End_Group
+
+  Group = Error
+    Program = kernfilter
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/home/enos/Desktop/skata.cub]"
+    File    = Pvl.cpp
+    Line    = 86
+  End_Group
+End_Object
+
+
+Object = cropspecial
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-01-06
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Crops specified special pixels from a cube"
+
+  Group = UserParameters
+    FROM = /tmp/isis3_despeckle//c.cub
+    TO   = /tmp/isis3_despeckle//output.cub
+    NULL = TRUE
+    HRS  = FALSE
+    LRS  = FALSE
+    HIS  = FALSE
+    LIS  = FALSE
+  End_Group
+
+  Group = Error
+    Program = cropspecial
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//c.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = fx
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-12-11
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generalized arithmetic operations using multiple cube
+                       files"
+
+  Group = UserParameters
+    F1       = /tmp/isis3_despeckle//output.cub
+    TO       = /tmp/isis3_despeckle//output2.cub
+    EQUATION = F1*.92
+    MODE     = CUBES
+  End_Group
+
+  Group = Error
+    Program = fx
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//output.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = fx
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-12-11
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generalized arithmetic operations using multiple cube
+                       files"
+
+  Group = UserParameters
+    F1       = /tmp/isis3_despeckle//output2.cub
+    F2       = /tmp/isis3_despeckle//output0.cub
+    TO       = /tmp/isis3_despeckle//final.cub
+    EQUATION = F1+F2
+    MODE     = CUBES
+  End_Group
+
+  Group = Error
+    Program = fx
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//output2.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = pad
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2012-12-06
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Add NULL padding around a cube"
+
+  Group = UserParameters
+    FROM   = /tmp/isis3_despeckle//final.cub
+    TO     = /tmp/isis3_despeckle//a.cub
+    LEFT   = 1
+    RIGHT  = 1
+    TOP    = 1
+    BOTTOM = 1
+  End_Group
+
+  Group = Error
+    Program = pad
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//final.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = stretch
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-04-23
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Remaps pixel values in a cube"
+
+  Group = UserParameters
+    FROM           = /tmp/isis3_despeckle//a.cub
+    TO             = /tmp/isis3_despeckle//b.cub
+    USEPERCENTAGES = False
+    READFILE       = False
+    NULL           = 0
+  End_Group
+
+  Group = Results
+    StretchPairs = Null
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
+Object = kernfilter
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2009-07-27
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:55
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Filter a cube through a kernel"
+
+  Group = UserParameters
+    FROM   = /tmp/isis3_despeckle//b.cub
+    TO     = /tmp/isis3_despeckle//c.cub
+    KERNEL = /home/enos/Desktop/skata.cub
+  End_Group
+
+  Group = Error
+    Program = kernfilter
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/home/enos/Desktop/skata.cub]"
+    File    = Pvl.cpp
+    Line    = 86
+  End_Group
+End_Object
+
+
+Object = cropspecial
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-01-06
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:56
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Crops specified special pixels from a cube"
+
+  Group = UserParameters
+    FROM = /tmp/isis3_despeckle//c.cub
+    TO   = /tmp/isis3_despeckle//output.cub
+    NULL = TRUE
+    HRS  = FALSE
+    LRS  = FALSE
+    HIS  = FALSE
+    LIS  = FALSE
+  End_Group
+
+  Group = Error
+    Program = cropspecial
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//c.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = fx
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-12-11
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:56
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generalized arithmetic operations using multiple cube
+                       files"
+
+  Group = UserParameters
+    F1       = /tmp/isis3_despeckle//output.cub
+    TO       = /tmp/isis3_despeckle//output2.cub
+    EQUATION = F1*.92
+    MODE     = CUBES
+  End_Group
+
+  Group = Error
+    Program = fx
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//output.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = fx
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2013-12-11
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:56
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Generalized arithmetic operations using multiple cube
+                       files"
+
+  Group = UserParameters
+    F1       = /tmp/isis3_despeckle//output2.cub
+    F2       = /tmp/isis3_despeckle//output0.cub
+    TO       = /tmp/isis3_despeckle//final.cub
+    EQUATION = F1+F2
+    MODE     = CUBES
+  End_Group
+
+  Group = Error
+    Program = fx
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//output2.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = pad
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2012-12-06
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:56
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Add NULL padding around a cube"
+
+  Group = UserParameters
+    FROM   = /tmp/isis3_despeckle//final.cub
+    TO     = /tmp/isis3_despeckle//a.cub
+    LEFT   = 1
+    RIGHT  = 1
+    TOP    = 1
+    BOTTOM = 1
+  End_Group
+
+  Group = Error
+    Program = pad
+    Class   = "I/O ERROR"
+    Code    = 4
+    Message = "Unable to open [/tmp/isis3_despeckle//final.cub]"
+    File    = Cube.cpp
+    Line    = 1949
+  End_Group
+End_Object
+
+
+Object = stretch
+  IsisVersion       = "3.4.7.5965 stable | 2014-08-27"
+  ProgramVersion    = 2010-04-23
+  ProgramPath       = /opt/isis3/isis/bin
+  ExecutionDateTime = 2015-09-29T18:03:56
+  HostName          = Unknown
+  UserName          = enos
+  Description       = "Remaps pixel values in a cube"
+
+  Group = UserParameters
+    FROM           = /tmp/isis3_despeckle//a.cub
+    TO             = /tmp/isis3_despeckle//b.cub
+    USEPERCENTAGES = False
+    READFILE       = False
+    NULL           = 0
+  End_Group
+
+  Group = Results
+    StretchPairs = Null
+  End_Group
+
+  Group = Accounting
+    ConnectTime = 00:00:00.0
+    CpuTime     = 00:00:00.0
+  End_Group
+End_Object
+
+
