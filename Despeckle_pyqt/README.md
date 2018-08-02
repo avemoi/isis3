@@ -14,6 +14,7 @@ surface" (Emmanuel Bratsolis, Georgios Bampasidis, Anezina Solomonidou, Athena C
 * Isis3 Installation (https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html)
 * Python 3
 * PyQt4
+* bc - An arbitrary precision calculator language
 
 
 ### Installing
