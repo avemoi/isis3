@@ -14,7 +14,6 @@ execpath=$installation_path$desqt
 echo "number of parameters $#"
 	if [ $# -eq 0 ]
 	then
-		#python $installation_path$despeckle_main
 		python $execpath
 	elif [  $# -lt 3  -o $# -gt 7 ]
     then
@@ -22,7 +21,7 @@ echo "number of parameters $#"
         echo "Try 'RTFM' for more information."
             
     else
-        # in order to skip the first argument (kernel)
+        # In order to skip the first argument (kernel)
         OPTIND=4
         while getopts "i:l:" opt
         do
