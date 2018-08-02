@@ -10,7 +10,6 @@ from PyQt4.QtCore import pyqtSlot
 from PyQt4.Qt import QProcess
 import sys
 
-
 def main():
     
     """
@@ -24,10 +23,6 @@ def main():
     ui = Gui_Main(Main)
     Main.show()
     sys.exit(app.exec_())
-
-
-
-
 
 if __name__ == '__main__':
     main()
