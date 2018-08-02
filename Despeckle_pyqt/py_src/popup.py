@@ -4,7 +4,6 @@ Created on Sep 19, 2015
 @author: enos
 '''
 
-
 from PyQt4 import QtCore, QtGui
 import subprocess
 import sys
@@ -31,54 +30,36 @@ class MyPopup(QtGui.QFrame):
     """
     def __init__(self,str):
         super(MyPopup, self).__init__()
-
         self.title = str
-        
         self.setupUi()
         
     def setupUi(self):
-        
-        #self.statsFrame = Frame
-        
         self.setObjectName(_fromUtf8(self.title))
         self.resize(427, 433)
         self.setFrameShape(QtGui.QFrame.StyledPanel)
         self.setFrameShadow(QtGui.QFrame.Raised)
         
-        
         self.plainTextEdit = QtGui.QPlainTextEdit(self)
         self.plainTextEdit.setGeometry(QtCore.QRect(27, 40, 371, 331))
         self.plainTextEdit.setObjectName(_fromUtf8("plainTextEdit"))
         
-        
         self.plainTextEdit.setReadOnly(True)
-        
-        
         
         self.pushButton = QtGui.QPushButton(self)
         self.pushButton.setGeometry(QtCore.QRect(316, 400, 83, 24))
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
       
-        
-        
         self.label = QtGui.QLabel()
         self.label.setGeometry(QtCore.QRect(170, 10, 61, 16))
         self.label.setObjectName(_fromUtf8("label"))
 
         self.retranslateUi(self)
         
-        
-        
         QtCore.QObject.connect(self.pushButton, QtCore.SIGNAL(_fromUtf8("clicked()")), self.close)
         
         QtCore.QMetaObject.connectSlotsByName(self)
         
         self.show()
-        
-        #self.myRun(self.cmd)
-        
-    
-    
         
     def setText(self,str):
         self.plainTextEdit.appendPlainText(str)
@@ -92,7 +73,7 @@ class MyPopup(QtGui.QFrame):
     def retranslateUi(self, Frame):
         Frame.setWindowTitle(_translate(self.title, self.title, None))
         self.pushButton.setText(_translate("Frame", "Close", None))
-        #self.label.setText(_translate("Frame", "Statistics", None))
+        
         
     
 
